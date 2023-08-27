@@ -160,6 +160,7 @@ img{
     border-radius: 30px;
     background-color: #0d6efd;
     transition: .4s;
+    text-decoration: none;
 
 }
 .hero-batton:focus{
